@@ -1,0 +1,19 @@
+{
+  "name": "robux-generator",
+  "version": "1.0.0",
+  "description": "A joke project to generate a free robux code",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve public",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "roblox",
+    "joke"
+  ],
+  "author": "Justin Zelinsky",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^12.0.0"
+  }
+}
